@@ -9,7 +9,9 @@ unsigned int factorial(unsigned int n){
 	return rc;	
 }
 double power (double base, unsigned int n){
-	
+	double myreturn=1;
+
+	return myreturn;
 }
 unsigned int fibonacci (unsigned int n){
 	
